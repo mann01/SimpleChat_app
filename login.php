@@ -76,7 +76,7 @@ if(isset($_POST['login']))
 
 
 <center>
-<!--	<h2><b>Login Form</b></h2></center>
+<!--	<h2><b>Login Forms</b></h2></center>
 <center><img src="q1.png" class="avatar"/></center>
 <br><br>  -->
 <br><br><br>
